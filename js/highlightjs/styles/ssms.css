@@ -1,4 +1,4 @@
-.hljs.language-tsql {
+.hljs.language-java {
     display: block;
     overflow-x: auto;
     padding: 0.5em;
@@ -6,46 +6,46 @@
     color: #808080;
 }
 
-.language-tsql .hljs-keyword {
+.language-java .hljs-keyword {
     color: #0000ff;
     font-weight: normal;
 }
 
-.language-tsql .hljs-built_in {
+.language-java .hljs-built_in {
     color: #ff00ff;
 }
 
-.language-tsql .hljs-type {
+.language-java .hljs-type {
     color: #008000;
     font-weight: normal;
 }
 
-.language-tsql .hljs-function {
+.language-java .hljs-function {
     color: #800000;
 }
 
-.language-tsql .hljs-number {
+.language-java .hljs-number {
     color: #000000;
 }
 
-.language-tsql .hljs-string {
+.language-java .hljs-string {
     color: #ff0000;
 }
 
-.language-tsql .hljs-symbol {
+.language-java .hljs-symbol {
     color: #000000;
 }
 
-.language-tsql .hljs-comment {
+.language-java .hljs-comment {
     color: #008000;
     font-style: normal;
 }
 
-.language-tsql .hljs-meta {
+.language-java .hljs-meta {
     background: #cdcdcd;
     color: #000000;
 }
 
-.language-tsql .hljs-literal {
+.language-java .hljs-literal {
     color: #808080;
 }
