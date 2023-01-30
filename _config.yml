@@ -27,7 +27,6 @@ kramdown:
     disable: false
     
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 
 titles_from_headings:
@@ -35,7 +34,7 @@ titles_from_headings:
   collections: true
   
 # The github repo that is to be used for looking up comments
-comments_repo: chadbaldwin/chadbaldwin.github.io  
+# comments_repo: chadbaldwin/chadbaldwin.github.io  
 
 defaults:
   - scope:
