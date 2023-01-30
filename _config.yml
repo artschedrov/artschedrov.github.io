@@ -33,6 +33,9 @@ plugins:
 titles_from_headings:
   strip_title: true
   collections: true
+  
+# The github repo that is to be used for looking up comments
+comments_repo: chadbaldwin/chadbaldwin.github.io  
 
 defaults:
   - scope:
