@@ -10,7 +10,7 @@ This is a sample blog post. You can talk about all sorts of fun things here.
 
 ### This is a header
 
-#### Some T-SQL Code
+#### Some Java Code
 
 ```java
 public static void main(Strng[] args) {
