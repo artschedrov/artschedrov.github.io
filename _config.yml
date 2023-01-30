@@ -20,7 +20,7 @@ linkedin_username: "linkedinuser"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
@@ -28,13 +28,15 @@ kramdown:
     
 plugins:
   - jekyll-sitemap
+  
+home_post_limit: 5  
 
 titles_from_headings:
   strip_title: true
   collections: true
   
 # The github repo that is to be used for looking up comments
-# comments_repo: chadbaldwin/chadbaldwin.github.io  
+comments_repo: artschedrov/artschedrov.github.io 
 
 defaults:
   - scope:
