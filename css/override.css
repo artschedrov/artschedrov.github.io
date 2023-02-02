@@ -3,6 +3,10 @@ hr {
   margin-bottom: 20px;
 }
 
+.wrapper {
+  max-width: calc(1000px - (30px * 2));
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
