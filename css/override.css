@@ -3,10 +3,6 @@ hr {
   margin-bottom: 20px;
 }
 
-.wrapper {
-  max-width: calc(1000px - (30px * 2))!important;
-}
-
 /* Post navigation links */
 .post_navi {
   display: flex;
@@ -51,5 +47,10 @@ hr {
 .post-title {
   font-family: open sans,sans-serif;
   color: #3a4145;
+  font-weight: 700;
+}
+
+.site-title {
+  font-family: Montserrat,helvetica neue,Helvetica,Arial,sans-serif;
   font-weight: 700;
 }
