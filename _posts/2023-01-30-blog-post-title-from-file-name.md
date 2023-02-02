@@ -1,27 +1,6 @@
-## Blog Post Title From First Header
+## 30 years ago
+![](time-magazine-issue1.jpg)
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
----
-
-### This is a header
-
-#### Some Java Code
-
-```java
-public static void main(Strng[] args) {
-    System.out.println("Hello");
-}
-```
-
-```scheme
-(define (factorial n)
-		(if (= n 0)
-			1
-       	(* (factorial (- n 1)) n)))
-
-```
+In 1982, instead of being named "Person of the Year", Time magazine chose "Machine of the Year". The cover of the January 1983 issue featured the headline "Machine of the Year: The Computer Moves In" featuring a papier-mâché sculpture of a man sitting in front of a personal computer at the kitchen table.
+These are cases where the most significant force of the year is not one person, but the process, and the widespread recognition by the whole society that this process changes direction of all other processes. That's why, after weighing the tides and flow of events around the world, TIME has decided that 1982 is the year of the computer. According to TIME in 1982, the greatest influence, for good or evil, was not a single person. It was a machine: a computer.
+Perhaps worthwhile to conduct a retrospective of how and what direction society has changed, after 30 years.
