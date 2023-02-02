@@ -17,3 +17,11 @@ public static void main(Strng[] args) {
     System.out.println("Hello");
 }
 ```
+
+```scheme
+(define (factorial n)
+		(if (= n 0)
+			1
+       	(* (factorial (- n 1)) n)))
+
+```
