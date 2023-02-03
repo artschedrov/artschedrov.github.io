@@ -15,6 +15,8 @@ hr {
 .post_navi-label {
   font-size: 0.8em;
   opacity: 0.5;
+  font-family: merriweather,serif;
+  text-transform: uppercase;
 }
 
 .post_navi .post_navi-item {
