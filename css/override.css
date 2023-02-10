@@ -12,6 +12,12 @@ hr {
   display: flex;
 }
 
+.page-link {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-family: monospace;
+}
+
 .home {
   font-family: open-sans, monospace;
 }
