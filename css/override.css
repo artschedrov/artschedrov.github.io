@@ -12,6 +12,10 @@ hr {
   display: flex;
 }
 
+.home {
+  font-family: open-sans, monospace;
+}
+
 .post_navi-label {
   font-size: 0.8em;
   opacity: 0.5;
@@ -82,5 +86,13 @@ hr {
   font-family: open sans,monospace;
   font-weight: 700;
   text-transform: uppercase;
+  font-size: 16px;
+}
+
+.rss-subscribe {
+  display: none;
+}
+
+.post-list-heading {
   font-size: 16px;
 }
