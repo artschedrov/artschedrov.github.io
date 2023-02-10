@@ -16,6 +16,10 @@ hr {
   font-family: open-sans, monospace;
 }
 
+.home hr {
+  margin-top: 0;
+}
+
 .post_navi-label {
   font-size: 0.8em;
   opacity: 0.5;
@@ -80,6 +84,7 @@ hr {
   font-family: open-sans, monospace;
   font-size: 16px;
   color: black;
+  margin-right: 20px;
 }
 
 .site-title {
@@ -94,9 +99,10 @@ hr {
   font-size: 16px;
   text-decoration: underline;
   color: black;
-  a:visited {
+}
+
+.post-link a:visited {
     color: black;
-  }
 }
 
 .rss-subscribe {
