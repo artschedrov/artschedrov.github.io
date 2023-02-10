@@ -67,6 +67,11 @@ hr {
   
 }
 
+.post-content {
+  font-family: open-sans, monospace;
+  font-size: 16px;
+}
+
 .site-title {
   font-family: open sans,monospace;
   font-weight: 700;
