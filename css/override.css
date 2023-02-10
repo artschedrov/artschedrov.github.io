@@ -17,12 +17,14 @@ hr {
   opacity: 0.5;
   font-family: merriweather,serif;
   text-transform: uppercase;
+ 
 }
 
 .post_navi-item span {
-  font-family: open sans,sans-serif;
+  font-family: open sans,monospace;
   color: #3a4145;
   font-weight: 700;
+  font-size: 16px;
 }
 
 .post_navi .post_navi-item {
@@ -57,12 +59,17 @@ hr {
 }
 
 .post-title {
-  font-family: open sans,sans-serif;
+  font-family: open sans,monospace;
   color: #3a4145;
   font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  
 }
 
 .site-title {
-  font-family: Montserrat,helvetica neue,Helvetica,Arial,sans-serif;
+  font-family: open sans,monospace;
   font-weight: 700;
+  text-transform: uppercase;
+  font-size: 16px;
 }
