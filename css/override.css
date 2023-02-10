@@ -72,6 +72,12 @@ hr {
   font-size: 16px;
 }
 
+.post-meta {
+  font-family: open-sans, monospace;
+  font-size: 16px;
+  color: black;
+}
+
 .site-title {
   font-family: open sans,monospace;
   font-weight: 700;
