@@ -110,3 +110,9 @@ hr {
 .post-list li {
   display: flex;
 }
+
+.post-list-heading {
+  font-family: open sans,monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+}
