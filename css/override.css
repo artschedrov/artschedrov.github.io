@@ -89,10 +89,21 @@ hr {
   font-size: 16px;
 }
 
+.post-link {
+  font-weight: bold;
+  font-size: 16px;
+  text-decoration: underline;
+  color: black;
+}
+
 .rss-subscribe {
   display: none;
 }
 
 .post-list-heading {
   font-size: 16px;
+}
+
+.post-list li {
+  display: flex;
 }
