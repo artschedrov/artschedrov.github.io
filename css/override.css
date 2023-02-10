@@ -101,8 +101,8 @@ hr {
   color: black;
 }
 
-.post-link a:visited {
-    color: black;
+a:visited {
+  color: black;
 }
 
 .rss-subscribe {
