@@ -135,6 +135,10 @@ a:visited {
   
 }
 
+.post-list > li > h3 {
+  margin-bottom: 5px;
+}
+
 .post-list-heading {
   font-family: open sans,monospace;
   font-weight: 700;
